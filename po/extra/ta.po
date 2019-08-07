@@ -20,23 +20,23 @@ msgstr ""
 #: data/com.github.artemanufrij.imageburner.desktop.in:13
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:7
 msgid "Image Burner"
-msgstr ""
+msgstr "இமேஜ் பர்னர்"
 
 #: data/com.github.artemanufrij.imageburner.desktop.in:8
 msgid "Burn images to devices"
-msgstr ""
+msgstr "சாதனங்களில் படத்தை எரிக்கவும்"
 
 #: data/com.github.artemanufrij.imageburner.desktop.in:17
 msgid "com.github.artemanufrij.imageburner"
-msgstr ""
+msgstr "com.github.artemanufrij.imageburner"
 
 #: data/com.github.artemanufrij.imageburner.desktop.in:22
 msgid "image;burn;flash;usb;etcher;"
-msgstr ""
+msgstr "இமேஜ்;எரி;ஏற்று;யுஸ்பி;எட்சர்;"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:8
 msgid "Inspired by Etcher's UI"
-msgstr ""
+msgstr "எட்சரின் UI ஆல் ஈர்க்கப்பட்டது"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:10
 msgid ""
@@ -46,17 +46,17 @@ msgstr ""
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:20
 msgid "Artem Anufrij"
-msgstr ""
+msgstr "ஆர்ட்டெம் அனுஃப்ரிஜ்"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:33
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:93
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:106
 msgid "Fix:"
-msgstr ""
+msgstr "சரிசெய்:"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:35
 msgid "Missing contractor (thanks to Torikul Habib)"
-msgstr ""
+msgstr "காணாமல் போன ஒப்பந்தக்காரர் (டோரிகுல் ஹபீப்பிற்கு நன்றி)"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:37
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:46
@@ -67,34 +67,34 @@ msgstr ""
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:118
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:143
 msgid "Translation:"
-msgstr ""
+msgstr "மொழிபெயர்ப்பு:"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:39
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:121
 msgid "Russian (by Camellan)"
-msgstr ""
+msgstr "ரஷ்யன் (கேமல்லன் மொழிபெயர்த்தது)"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:40
 msgid "Japanese (by Ciarán Ainsworth and Ryo Nakano)"
-msgstr ""
+msgstr "ஜாப்பனீஸ் (சியாரன் ஐன்ஸ்வொர்த் மற்றும் ரியோ நகானோ மொழிபெயர்த்தது)"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:48
 msgid "Portuguese Brazilian (by leavitals)"
-msgstr ""
+msgstr "போர்த்துகீசிய பிரேசிலியன் (லெவிட்டால் மொழிபெயர்க்கப்பட்டுள்ளது)"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:54
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:127
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:135
 msgid "New:"
-msgstr ""
+msgstr "புதிய:"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:56
 msgid "Switch to meson (Thanks to Daniel Lewan)"
-msgstr ""
+msgstr "மீசனுக்கு மாற்றிய (டேனியல் லெவனுக்கு நன்றி)"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:60
 msgid "Lithuanian (by welaq)"
-msgstr ""
+msgstr "லிதுவேனியன் (வெலாக் மொழிபெயர்த்தது)"
 
 #: data/com.github.artemanufrij.imageburner.appdata.xml.in:61
 msgid "Dutch (by Heimen Stoffels)"
